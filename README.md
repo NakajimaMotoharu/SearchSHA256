@@ -14,5 +14,5 @@ private static String byte2str(ハッシュ値)
 
 ハッシュ値を文字列に変換します。一応privateにしてありますが、使いたいならpublicにして使ってください。
 
-#Update Log
+# Update Log
 20230519 アップロード
